@@ -9,4 +9,4 @@ Built to make financial clarity effortless.
 - 🤖 Automated insights and monthly reports  
 - ☁️ Secure cloud storage with Firebase/Supabase  
 - 🌍 Multi-currency and multilingual support  
-- ⚙️ Built with React, Tailwind, and OpenAI API  
+- ⚙️ Built with React, Tailwind, and Gemini API  
