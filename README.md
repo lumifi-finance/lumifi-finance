@@ -10,3 +10,4 @@ Built to make financial clarity effortless.
 -☁️ Secure cloud storage with Firebase/Supabase
 -🌍 Multi-currency and multilingual support
 -⚙️ Built with React, Tailwind, and OpenAI API
+ 
